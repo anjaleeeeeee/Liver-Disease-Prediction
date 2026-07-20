@@ -33,7 +33,7 @@ The dataset contains patient demographic information and liver function test res
 
 ## Internship
 
-This project was completed during my internship at **Postulate Infotech Pvt. Ltd.** as part of a machine learning training program focused on applying data science techniques to healthcare datasets.
+This project represents the primary machine learning work completed during my **Data Science Internship at Postulate Infotech Pvt. Ltd.** It involved analyzing a healthcare dataset through data preprocessing, exploratory data analysis, clustering, and predictive modeling.
 
 ---
 
